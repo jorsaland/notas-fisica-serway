@@ -2,7 +2,7 @@
 
 Este repositorio contiene notas de estudio y soluciones de ejercicios sobre los dos tomos del libro titulado *Física para ciencias e ingeniería*, en su décima edición y de los autores Serway, Raymond A. y Jewett, John W. (tomo 1: `ISBN: 978-607-526-671-8`, tomo 2: `ISBN: 978-607-526-672-5`). El libro está dividido en 2 tomos, 6 partes temáticas, y 44 capítulos. En este repositorio, resumiré algunos de los capítulos, dando también mi perspectiva sobre cómo intuyo los conceptos y las fórmulas.
 
-**Parte 1 -** Mecánica
+**Parte 1 -** [Mecánica](./parte_1)
 
 **Parte 2 -** Oscilaciones y ondas mecánicas
 
