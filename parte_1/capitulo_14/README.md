@@ -14,7 +14,7 @@ Este capítulo abarca temas como la presión, las fuerzas de flotación, la din�
 
 **14.5 -** [Dinámica de fluidos](./14.5.md)
 
-**14.6 -** Ecuación de Bernoulli
+**14.6 -** [Ecuación de Bernoulli](./14.6.md)
 
 **14.7 -** Flujo de fluidos viscosos en tuberías
 
