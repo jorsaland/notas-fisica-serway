@@ -30,4 +30,4 @@ Este capítulo trata sobre la mecánica clásica. Abarca las bases sobre la medi
 
 **Capítulo 13 -** Gravitación universal
 
-**Capítulo 14 -** [Mecánica de fluidos](./capitulo_14)
+**Capítulo 14 -** [Mecánica de fluidos](./capitulo-14)
